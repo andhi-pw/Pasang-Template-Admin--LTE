@@ -27,3 +27,5 @@ Route::get('/items', function (){
 Route::get('/items/data-tables', function(){
     return view('items.data-tables');
 });
+
+?>
